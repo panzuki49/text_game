@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node app.ts"
   },
-  "author": "",
+  "author": "panzuki49",
+  "repository": "https://github.com/panzuki49/text_game.git",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
